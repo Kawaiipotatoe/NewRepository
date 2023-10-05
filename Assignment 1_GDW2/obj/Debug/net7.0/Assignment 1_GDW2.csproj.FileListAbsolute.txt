@@ -1,0 +1,14 @@
+C:\Users\Hasnad Munir\RiderProjects\Assignment 1_GDW2\Assignment 1_GDW2\obj\Debug\net7.0\Assignment 1_GDW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasnad Munir\RiderProjects\Assignment 1_GDW2\Assignment 1_GDW2\obj\Debug\net7.0\Assignment 1_GDW2.AssemblyInfoInputs.cache
+C:\Users\Hasnad Munir\RiderProjects\Assignment 1_GDW2\Assignment 1_GDW2\obj\Debug\net7.0\Assignment 1_GDW2.AssemblyInfo.cs
+C:\Users\Hasnad Munir\RiderProjects\Assignment 1_GDW2\Assignment 1_GDW2\obj\Debug\net7.0\Assignment 1_GDW2.csproj.CoreCompileInputs.cache
+C:\Users\Hasnad Munir\RiderProjects\Assignment 1_GDW2\Assignment 1_GDW2\bin\Debug\net7.0\Assignment 1_GDW2.exe
+C:\Users\Hasnad Munir\RiderProjects\Assignment 1_GDW2\Assignment 1_GDW2\bin\Debug\net7.0\Assignment 1_GDW2.deps.json
+C:\Users\Hasnad Munir\RiderProjects\Assignment 1_GDW2\Assignment 1_GDW2\bin\Debug\net7.0\Assignment 1_GDW2.runtimeconfig.json
+C:\Users\Hasnad Munir\RiderProjects\Assignment 1_GDW2\Assignment 1_GDW2\bin\Debug\net7.0\Assignment 1_GDW2.dll
+C:\Users\Hasnad Munir\RiderProjects\Assignment 1_GDW2\Assignment 1_GDW2\bin\Debug\net7.0\Assignment 1_GDW2.pdb
+C:\Users\Hasnad Munir\RiderProjects\Assignment 1_GDW2\Assignment 1_GDW2\obj\Debug\net7.0\Assignment 1_GDW2.dll
+C:\Users\Hasnad Munir\RiderProjects\Assignment 1_GDW2\Assignment 1_GDW2\obj\Debug\net7.0\refint\Assignment 1_GDW2.dll
+C:\Users\Hasnad Munir\RiderProjects\Assignment 1_GDW2\Assignment 1_GDW2\obj\Debug\net7.0\Assignment 1_GDW2.pdb
+C:\Users\Hasnad Munir\RiderProjects\Assignment 1_GDW2\Assignment 1_GDW2\obj\Debug\net7.0\Assignment 1_GDW2.genruntimeconfig.cache
+C:\Users\Hasnad Munir\RiderProjects\Assignment 1_GDW2\Assignment 1_GDW2\obj\Debug\net7.0\ref\Assignment 1_GDW2.dll
